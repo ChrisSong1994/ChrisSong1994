@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
+  <p><img src="./avatar.jpeg"  height="200" width="200" style="border-radius:50%;" /></p>
+  <p>大家好我Chris Song👋 一个生活工作在杭州的小前端 </p>
+  <p>work hard paly hard</p>
+  <p>
+    <img src="https://img.shields.io/github/followers/ChrisSong1994" />
+    <img src="https://img.shields.io/github/stars/ChrisSong1994">
+  </p>
+ 
+</div>
 
-<!--
-**ChrisSong1994/ChrisSong1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 个人项目
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [simo-cli](https://github.com/ChrisSong1994/simo-cli): 开箱即用的 react 脚手架工具；
+- [multi-part-upload](https://github.com/ChrisSong1994/multi-part-upload): 分片上传模块，支持并行和串行上传；
+- [AsyncFiles](https://github.com/ChrisSong1994/AsyncFiles): 实时同步两个文件/夹内容；
+- [FrameMessage](https://github.com/ChrisSong1994/FrameMessage): 基于 promise 和 postMessage 通信封装的接口调用式通信方式；
+- [link_catch](https://github.com/ChrisSong1994/link_catch): 一个获取天下足球网的下载链接的爬虫工具基于 electron 实现 GUI;
+- [happy-server](https://github.com/ChrisSong1994/happy-server): 静态文件服务器；
+- [leetcode_javascript](https://github.com/ChrisSong1994/leetcode_javascript): 算法学习；
+- [npm-package-template-rollup](https://github.com/ChrisSong1994/npm-package-template-rollup): 专门用于写轮子的基于 typescript 和 rollup 模版;
+  ...
