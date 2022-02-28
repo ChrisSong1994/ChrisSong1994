@@ -1,6 +1,6 @@
 <div align="center">
   <!-- <p><img src="./avatar.jpeg"  height="200" width="200" style="border-radius:50%;" /></p> -->
-  <p>大家好我Chris Song👋 一个生活工作在杭州的小前端 </p>
+  <p>大家好我Chris Song👋 一个生活工作在杭州的前端 </p>
   <p>work hard paly hard</p>
   <p>
     <img src="https://img.shields.io/github/followers/ChrisSong1994" />
