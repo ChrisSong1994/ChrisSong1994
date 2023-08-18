@@ -1,6 +1,6 @@
 <div align="center">
   <!-- <p><img src="./avatar.jpeg"  height="200" width="200" style="border-radius:50%;" /></p> -->
-  <p>大家好我Chris Song👋 一个生活工作在杭州的前端 </p>
+  <p>大家好!我是Chris Song👋 ,一个梦想成为独立开发者的前端er </p>
   <p>work hard paly hard</p>
   <p>
     <img src="https://img.shields.io/github/followers/ChrisSong1994" />
@@ -9,11 +9,11 @@
  
 </div>
 
-### 个人产品
+### Product
 - [🦍猿简历](https://www.91ape.net/):简历制作工具，所见即所得的编辑体验；
 - [🔧开发者工具](https://github.com/ChrisSong1994/developer-assistant):一个常用开发工具集客户端，包含了常用的 json 解析处理、颜色拾取转换、编码、文本 diff 等操作；
 
-### 个人项目
+### Library
 - [markdown-image-to-base64](https://github.com/ChrisSong1994/markdown-image-to-base64):转换 markdown 中的图片为base64,可以解决**雨雀**导出的markdown 中图片防盗链问题；
 - [simo-cli](https://github.com/ChrisSong1994/simo-cli): 开箱即用的 react 脚手架工具；
 - [multi-part-upload](https://github.com/ChrisSong1994/multi-part-upload): 分片上传模块，支持并行和串行上传；
