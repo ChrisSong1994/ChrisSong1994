@@ -21,6 +21,5 @@
 - [FrameMessage](https://github.com/ChrisSong1994/FrameMessage): 基于 promise 和 postMessage 通信封装的接口调用式通信方式；
 - [link_catch](https://github.com/ChrisSong1994/link_catch): 一个获取天下足球网的下载链接的爬虫工具基于 electron 实现 GUI;
 - [happy-server](https://github.com/ChrisSong1994/happy-server): 静态文件服务器；
-- [leetcode_javascript](https://github.com/ChrisSong1994/leetcode_javascript): 算法学习；
 - [npm-package-template-rollup](https://github.com/ChrisSong1994/npm-package-template-rollup): 专门用于写轮子的基于 typescript 和 rollup 模版;
   ...
