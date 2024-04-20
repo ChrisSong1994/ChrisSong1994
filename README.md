@@ -14,6 +14,7 @@
 - [🔧开发者工具](https://github.com/ChrisSong1994/developer-assistant):一个常用开发工具集客户端，包含了常用的 json 解析处理、颜色拾取转换、编码、文本 diff 等操作；
 
 ### Library
+- [aliyun_ddns_updater](https://github.com/ChrisSong1994/aliyun_ddns_updater): 阿里云动态域名解析服务；
 - [markdown-image-to-base64](https://github.com/ChrisSong1994/markdown-image-to-base64):转换 markdown 中的图片为base64,可以解决**雨雀**导出的markdown 中图片防盗链问题；
 - [simo-cli](https://github.com/ChrisSong1994/simo-cli): 开箱即用的 react 脚手架工具；
 - [multi-part-upload](https://github.com/ChrisSong1994/multi-part-upload): 分片上传模块，支持并行和串行上传；
