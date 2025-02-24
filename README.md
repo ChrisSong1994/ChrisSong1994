@@ -13,6 +13,7 @@
 - [🦍猿简历](http://home.chrissong.top:1020/):简历制作工具，所见即所得的编辑体验；
 - [🔧开发者工具](https://github.com/ChrisSong1994/developer-assistant):一个常用开发工具集客户端，包含了常用的 json 解析处理、颜色拾取转换、编码、文本 diff 等操作；
 - [🏠HomeTab](https://github.com/ChrisSong1994/HomeTab):一个chrome 插件，帮助用户建立更好的新标签页；
+- [JueJinBookPress](https://github.com/ChrisSong1994/JueJinBookPressDocker): 前端小册 rspress 文档
 
 ### Library
 - [aliyun_ddns_updater](https://github.com/ChrisSong1994/aliyun_ddns_updater): 阿里云动态域名解析服务；
