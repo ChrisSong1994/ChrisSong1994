@@ -16,6 +16,7 @@
 - [📖JueJinBookPress](https://github.com/ChrisSong1994/JueJinBookPress): 掘金小册 rspress 文档
 
 ### Library
+- [@fett/web-snapshot](https://github.com/ChrisSong1994/web-snapshoot):基于localstorage 的 web 快照方案
 - [aliyun_ddns_updater](https://github.com/ChrisSong1994/aliyun_ddns_updater): 阿里云动态域名解析服务；
 - [markdown-image-to-base64](https://github.com/ChrisSong1994/markdown-image-to-base64):转换 markdown 中的图片为base64,可以解决**雨雀**导出的markdown 中图片防盗链问题；
 - [simo-cli](https://github.com/ChrisSong1994/simo-cli): 开箱即用的 react 脚手架工具；
