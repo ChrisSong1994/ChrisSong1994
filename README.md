@@ -1,7 +1,7 @@
 <div align="center">
   <!-- <p><img src="./avatar.jpeg"  height="200" width="200" style="border-radius:50%;" /></p> -->
   <p>大家好!我是Chris Song👋，一名爱折腾的前端开发者</p>
-  <p>work hard paly hard</p>
+  <p>In-depth research, do what you say</p>
   <p>
     <img src="https://img.shields.io/github/followers/ChrisSong1994" />
     <img src="https://img.shields.io/github/stars/ChrisSong1994">
