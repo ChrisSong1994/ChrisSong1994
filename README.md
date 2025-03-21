@@ -12,7 +12,9 @@
 - [🦍猿简历](https://apecv.com/):简历制作工具，所见即所得的编辑体验；
 - [🔧开发者工具](https://github.com/ChrisSong1994/developer-assistant):一个常用开发工具集客户端，包含了常用的 json 解析处理、颜色拾取转换、编码、文本 diff 等操作；
 - [🏠HomeTab](https://github.com/ChrisSong1994/HomeTab):一个chrome 插件，帮助用户建立更好的新标签页；
+- [@fett/midwayjs-email](https://github.com/ChrisSong1994/midwayjs-email):基于 nodemailer 开发的 Midway 组件，支持 midwayjs 3
 - [@fett/web-snapshot](https://github.com/ChrisSong1994/web-snapshoot):基于localstorage 的 web 快照方案
+- [rspack-svg-loader](https://github.com/ChrisSong1994/rspack-svg-loader):a rspack loader for load svg as react/vue component
 - [aliyun_ddns_updater](https://github.com/ChrisSong1994/aliyun_ddns_updater): 阿里云动态域名解析服务；
 - [markdown-image-to-base64](https://github.com/ChrisSong1994/markdown-image-to-base64):转换 markdown 中的图片为base64,可以解决**雨雀**导出的markdown 中图片防盗链问题；
 - [simo-cli](https://github.com/ChrisSong1994/simo-cli): 开箱即用的 react 脚手架工具；
