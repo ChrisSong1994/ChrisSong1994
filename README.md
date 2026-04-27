@@ -23,7 +23,3 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisSong1994&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisSong1994&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-如果需要再短一点（比如连 GitHub 统计卡片也去掉、只用纯文本），或者调整项目顺序，随时说。
